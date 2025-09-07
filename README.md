@@ -1,21 +1,15 @@
-# 📈 StockAnalyzer – Go + React Trading Dashboard
+## 📊 Visualizations
 
-StockAnalyzer is a full-stack project that shows live stock data with **technical indicators** (RSI, SMA, EMA, Bollinger Bands, MACD).  
-It uses the **Alpaca API** (free IEX feed) for data and a modern **React + Vite + Tailwind** frontend for charts.
+StockAnalyzer provides interactive charts that display live stock prices along with technical indicators.
 
----
+### Price + Indicators
+![Price + Indicators](./path/to/price_indicators.png)
+*Shows stock closing prices with Bollinger Bands, SMA, and EMA.*
 
-## 🚀 Features
-- ✅ Backend (Go):
-  - Fetches OHLCV stock data from Alpaca
-  - Calculates RSI, SMA, EMA, Bollinger Bands, MACD
-  - Provides a REST API for the frontend
-- ✅ Frontend (React + Recharts + Tailwind):
-  - Price chart with Bollinger Bands, SMA, EMA
-  - RSI chart (0–100 scale)
-  - MACD chart with signal + histogram
-  - Fully responsive UI
+### RSI (Relative Strength Index)
+![RSI](./path/to/rsi.png)
+*RSI chart (0–100 scale) indicating overbought and oversold conditions.*
 
----
-
-
+### MACD (Moving Average Convergence Divergence)
+![MACD](./path/to/macd.png)
+*MACD line, signal line, and histogram to track trend momentum and reversals.*
