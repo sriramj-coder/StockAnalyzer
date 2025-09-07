@@ -32,9 +32,11 @@ StockAnalyzer provides interactive charts that display live stock prices along w
 *Shows stock closing prices with Bollinger Bands, SMA, and EMA.*
 
 ### RSI (Relative Strength Index)
-![RSI](./path/to/rsi.png)
+<img width="917" height="374" alt="image" src="https://github.com/user-attachments/assets/dccaeb3f-bc80-4960-b03e-d792bc562163" />
+
 *RSI chart (0–100 scale) indicating overbought and oversold conditions.*
 
 ### MACD (Moving Average Convergence Divergence)
-![MACD](./path/to/macd.png)
+<img width="895" height="452" alt="image" src="https://github.com/user-attachments/assets/a5274d08-a050-485d-bd8a-24e3321b99d9" />
+
 *MACD line, signal line, and histogram to track trend momentum and reversals.*
