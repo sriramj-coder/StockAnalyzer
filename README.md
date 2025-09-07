@@ -15,11 +15,6 @@ It uses the Alpaca API (free IEX feed) for data and a modern React + Vite + Tail
 - RSI chart (0–100 scale)
 - MACD chart with signal line and histogram
 
-## ⚡ Getting Started
-1. Clone the repo:  
-   ```bash
-   git clone https://github.com/sriramj-coder/StockAnalyzer.git
-
 
 
 ## 📊 Visualizations
