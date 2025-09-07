@@ -1,0 +1,18 @@
+# Ignore build and cache files
+node_modules/
+dist/
+.vscode/
+.vs/
+*.vsidx
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Go build files
+bin/
+*.exe
+*.out
+
+# Logs
+*.log
